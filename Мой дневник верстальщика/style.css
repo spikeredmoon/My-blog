@@ -1,0 +1,129 @@
+body {
+    padding: 30px;
+    padding-left: 500px;
+    padding-right: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: "Ariel", sans-serif;
+    color: #222222;
+    background-color: whitesmoke;
+    line-height: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul a {
+    color: black;
+}
+
+.main {
+    background-color: grey;
+    border-radius: 15px;
+    border: solid 5px black;
+    margin-bottom: 50px;
+}
+
+.main h3 {
+    padding-left: 15px;
+}
+
+.main-navigation {
+    background-color: grey;
+    border-radius: 15px;
+    border: solid 5px black;
+    margin-bottom: 50px;
+    padding-bottom: 15px;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+.main-navigation h2 {
+    padding-left: 15px;
+}
+
+pre {
+    background: rgb(84, 52, 230);
+    border-radius: 15px;
+    border: 5px solid rgb(0, 0, 0);
+    color: white;
+}
+
+.base {
+    padding-bottom: 50px;
+    padding-top: 5px;
+}
+
+.structure_html {
+    padding-bottom: 50px;
+}
+
+.razmetka {
+    padding-bottom: 50px;
+}
+
+.images {
+    padding-bottom: 50px;
+}
+
+img {
+    border-radius: 5%;
+}
+
+.skills dd {
+    margin: 0;
+    margin-bottom: 10px;
+    background-color: #e8e8e8;
+}
+
+.skills-level {
+    font-size: 12px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #4470c4;
+}
+
+.skills-level-ok {
+    background-color: #47bb52;
+}
+
+.my-skills {
+    margin: 50px;
+}
+
+aside {
+    border: 5px solid rgb(73, 73, 211);
+    border-radius: 5px;
+    background-color: rgb(118, 118, 212);
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+footer {
+    border-top: 5px solid #aaaaaa;
+    color: #aaaaaa;
+    margin-top: 50px;
+}
+
+ins {
+    text-decoration: none;
+    color: rgb(23, 235, 23);
+}
+
+del {
+    text-decoration: none;
+    color: red;
+}
+
+.img_list {
+    border-top: 5px solid grey;
+}
+
+
+/* Неосновные сайты */
